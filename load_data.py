@@ -7,7 +7,12 @@ BASE_FP = osp.join(osp.dirname(os.path.abspath(__file__)),"data")
 
 """
 返回的是2个python内置的数据类型list
+专门用来导入ss文件。
+因为ss文件开头有header，而csv文件都没有
+所以干脆分开成不同的方法来导入不同的数据集
+而且，csv的文件，使用pandas来导入相对来说也是很简单的了
 """
+
 def load_data(filename=None):
     if filename == None:
         filename = "validation_set.ss"

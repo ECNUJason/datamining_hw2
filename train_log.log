@@ -1,0 +1,643 @@
+2019-04-29 00:54:10,622 - test.py:37 - train_log - first info message
+2019-04-29 00:54:10,622 - test.py:38 - train_log - first debug message
+2019-04-29 00:54:10,653 - test.py:213 - train_log - [start_again]_F_20_alpha_0.030000_lambda_0.500000
+2019-04-29 00:54:11,064 - test.py:108 - train_log - [Prompt]Epoch:0, Current step: 1000, Loss(train): 6.551672, Loss(val): 6.492640, alpha:0.030000
+2019-04-29 00:54:11,426 - test.py:108 - train_log - [Prompt]Epoch:0, Current step: 2000, Loss(train): 5.876889, Loss(val): 5.852436, alpha:0.030000
+2019-04-29 00:54:11,783 - test.py:108 - train_log - [Prompt]Epoch:0, Current step: 3000, Loss(train): 5.141584, Loss(val): 5.158891, alpha:0.030000
+2019-04-29 00:54:12,162 - test.py:108 - train_log - [Prompt]Epoch:0, Current step: 4000, Loss(train): 4.472625, Loss(val): 4.521618, alpha:0.030000
+2019-04-29 00:54:12,539 - test.py:108 - train_log - [Prompt]Epoch:0, Current step: 5000, Loss(train): 3.896274, Loss(val): 3.993306, alpha:0.030000
+2019-04-29 00:54:12,587 - test.py:169 - train_log - 
+[Saved Matrix P to file: data\matrix\P_iter5000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-54-12.csv]
+
+2019-04-29 00:54:12,696 - test.py:169 - train_log - 
+[Saved Matrix Q to file: data\matrix\Q_iter5000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-54-12.csv]
+
+2019-04-29 00:54:13,090 - test.py:108 - train_log - [Prompt]Epoch:0, Current step: 6000, Loss(train): 3.467595, Loss(val): 3.592307, alpha:0.030000
+2019-04-29 00:54:13,708 - test.py:108 - train_log - [Prompt]Epoch:0, Current step: 7000, Loss(train): 3.161581, Loss(val): 3.317590, alpha:0.030000
+2019-04-29 00:54:14,203 - test.py:108 - train_log - [Prompt]Epoch:0, Current step: 8000, Loss(train): 2.845566, Loss(val): 3.004906, alpha:0.030000
+2019-04-29 00:54:14,617 - test.py:108 - train_log - [Prompt]Epoch:0, Current step: 9000, Loss(train): 2.665303, Loss(val): 2.835895, alpha:0.030000
+2019-04-29 00:54:15,102 - test.py:108 - train_log - [Prompt]Epoch:0, Current step: 10000, Loss(train): 2.481623, Loss(val): 2.664663, alpha:0.030000
+2019-04-29 00:54:15,133 - test.py:169 - train_log - 
+[Saved Matrix P to file: data\matrix\P_iter10000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-54-15.csv]
+
+2019-04-29 00:54:15,305 - test.py:169 - train_log - 
+[Saved Matrix Q to file: data\matrix\Q_iter10000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-54-15.csv]
+
+2019-04-29 00:54:15,773 - test.py:108 - train_log - [Prompt]Epoch:0, Current step: 11000, Loss(train): 2.367544, Loss(val): 2.562790, alpha:0.030000
+2019-04-29 00:54:16,258 - test.py:108 - train_log - [Prompt]Epoch:0, Current step: 12000, Loss(train): 2.263986, Loss(val): 2.451898, alpha:0.030000
+2019-04-29 00:54:16,623 - test.py:108 - train_log - [Prompt]Epoch:0, Current step: 13000, Loss(train): 2.168991, Loss(val): 2.354180, alpha:0.030000
+2019-04-29 00:54:16,999 - test.py:108 - train_log - [Prompt]Epoch:0, Current step: 14000, Loss(train): 2.121181, Loss(val): 2.297406, alpha:0.030000
+2019-04-29 00:54:17,488 - test.py:108 - train_log - [Prompt]Epoch:0, Current step: 15000, Loss(train): 2.060018, Loss(val): 2.227796, alpha:0.030000
+2019-04-29 00:54:17,523 - test.py:169 - train_log - 
+[Saved Matrix P to file: data\matrix\P_iter15000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-54-17.csv]
+
+2019-04-29 00:54:17,663 - test.py:169 - train_log - 
+[Saved Matrix Q to file: data\matrix\Q_iter15000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-54-17.csv]
+
+2019-04-29 00:54:18,059 - test.py:108 - train_log - [Prompt]Epoch:0, Current step: 16000, Loss(train): 2.024079, Loss(val): 2.158822, alpha:0.030000
+2019-04-29 00:54:18,597 - test.py:108 - train_log - [Prompt]Epoch:1, Current step: 17000, Loss(train): 1.991816, Loss(val): 2.170338, alpha:0.027000
+2019-04-29 00:54:19,037 - test.py:108 - train_log - [Prompt]Epoch:1, Current step: 18000, Loss(train): 1.976646, Loss(val): 2.144572, alpha:0.027000
+2019-04-29 00:54:19,540 - test.py:108 - train_log - [Prompt]Epoch:1, Current step: 19000, Loss(train): 1.969599, Loss(val): 2.168861, alpha:0.027000
+2019-04-29 00:54:20,188 - test.py:108 - train_log - [Prompt]Epoch:1, Current step: 20000, Loss(train): 1.978229, Loss(val): 2.154978, alpha:0.027000
+2019-04-29 00:54:20,235 - test.py:169 - train_log - 
+[Saved Matrix P to file: data\matrix\P_iter20000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-54-20.csv]
+
+2019-04-29 00:54:20,453 - test.py:169 - train_log - 
+[Saved Matrix Q to file: data\matrix\Q_iter20000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-54-20.csv]
+
+2019-04-29 00:54:21,409 - test.py:108 - train_log - [Prompt]Epoch:1, Current step: 21000, Loss(train): 1.941807, Loss(val): 2.120589, alpha:0.027000
+2019-04-29 00:54:22,132 - test.py:108 - train_log - [Prompt]Epoch:1, Current step: 22000, Loss(train): 1.935540, Loss(val): 2.113332, alpha:0.027000
+2019-04-29 00:54:22,573 - test.py:108 - train_log - [Prompt]Epoch:1, Current step: 23000, Loss(train): 1.909029, Loss(val): 2.095115, alpha:0.027000
+2019-04-29 00:54:23,057 - test.py:108 - train_log - [Prompt]Epoch:1, Current step: 24000, Loss(train): 1.931384, Loss(val): 2.130042, alpha:0.027000
+2019-04-29 00:54:23,542 - test.py:108 - train_log - [Prompt]Epoch:1, Current step: 25000, Loss(train): 1.916440, Loss(val): 2.095159, alpha:0.027000
+2019-04-29 00:54:23,573 - test.py:169 - train_log - 
+[Saved Matrix P to file: data\matrix\P_iter25000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-54-23.csv]
+
+2019-04-29 00:54:23,684 - test.py:169 - train_log - 
+[Saved Matrix Q to file: data\matrix\Q_iter25000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-54-23.csv]
+
+2019-04-29 00:54:24,138 - test.py:108 - train_log - [Prompt]Epoch:1, Current step: 26000, Loss(train): 1.892923, Loss(val): 2.057453, alpha:0.027000
+2019-04-29 00:54:24,529 - test.py:108 - train_log - [Prompt]Epoch:1, Current step: 27000, Loss(train): 1.909832, Loss(val): 2.091398, alpha:0.027000
+2019-04-29 00:54:24,921 - test.py:108 - train_log - [Prompt]Epoch:1, Current step: 28000, Loss(train): 1.877633, Loss(val): 2.066207, alpha:0.027000
+2019-04-29 00:54:25,328 - test.py:108 - train_log - [Prompt]Epoch:1, Current step: 29000, Loss(train): 1.886654, Loss(val): 2.054508, alpha:0.027000
+2019-04-29 00:54:25,831 - test.py:108 - train_log - [Prompt]Epoch:1, Current step: 30000, Loss(train): 1.860115, Loss(val): 2.045062, alpha:0.027000
+2019-04-29 00:54:25,862 - test.py:169 - train_log - 
+[Saved Matrix P to file: data\matrix\P_iter30000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-54-25.csv]
+
+2019-04-29 00:54:25,972 - test.py:169 - train_log - 
+[Saved Matrix Q to file: data\matrix\Q_iter30000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-54-25.csv]
+
+2019-04-29 00:54:26,384 - test.py:108 - train_log - [Prompt]Epoch:1, Current step: 31000, Loss(train): 1.886774, Loss(val): 2.066791, alpha:0.027000
+2019-04-29 00:54:26,821 - test.py:108 - train_log - [Prompt]Epoch:1, Current step: 32000, Loss(train): 1.890487, Loss(val): 2.071144, alpha:0.027000
+2019-04-29 00:54:27,227 - test.py:108 - train_log - [Prompt]Epoch:1, Current step: 33000, Loss(train): 1.895093, Loss(val): 2.051263, alpha:0.027000
+2019-04-29 00:54:27,619 - test.py:108 - train_log - [Prompt]Epoch:2, Current step: 34000, Loss(train): 1.854855, Loss(val): 2.011309, alpha:0.024300
+2019-04-29 00:54:28,009 - test.py:108 - train_log - [Prompt]Epoch:2, Current step: 35000, Loss(train): 1.862589, Loss(val): 2.025827, alpha:0.024300
+2019-04-29 00:54:28,041 - test.py:169 - train_log - 
+[Saved Matrix P to file: data\matrix\P_iter35000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-54-28.csv]
+
+2019-04-29 00:54:28,166 - test.py:169 - train_log - 
+[Saved Matrix Q to file: data\matrix\Q_iter35000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-54-28.csv]
+
+2019-04-29 00:54:28,542 - test.py:108 - train_log - [Prompt]Epoch:2, Current step: 36000, Loss(train): 1.866221, Loss(val): 2.018093, alpha:0.024300
+2019-04-29 00:54:28,890 - test.py:108 - train_log - [Prompt]Epoch:2, Current step: 37000, Loss(train): 1.862664, Loss(val): 2.032953, alpha:0.024300
+2019-04-29 00:54:29,248 - test.py:108 - train_log - [Prompt]Epoch:2, Current step: 38000, Loss(train): 1.831528, Loss(val): 2.013337, alpha:0.024300
+2019-04-29 00:54:29,608 - test.py:108 - train_log - [Prompt]Epoch:2, Current step: 39000, Loss(train): 1.883791, Loss(val): 2.043759, alpha:0.024300
+2019-04-29 00:54:29,937 - test.py:108 - train_log - [Prompt]Epoch:2, Current step: 40000, Loss(train): 1.836205, Loss(val): 1.986903, alpha:0.024300
+2019-04-29 00:54:29,974 - test.py:169 - train_log - 
+[Saved Matrix P to file: data\matrix\P_iter40000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-54-29.csv]
+
+2019-04-29 00:54:30,084 - test.py:169 - train_log - 
+[Saved Matrix Q to file: data\matrix\Q_iter40000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-54-30.csv]
+
+2019-04-29 00:54:30,414 - test.py:108 - train_log - [Prompt]Epoch:2, Current step: 41000, Loss(train): 1.850236, Loss(val): 2.001336, alpha:0.024300
+2019-04-29 00:54:30,761 - test.py:108 - train_log - [Prompt]Epoch:2, Current step: 42000, Loss(train): 1.857236, Loss(val): 2.017554, alpha:0.024300
+2019-04-29 00:54:31,123 - test.py:108 - train_log - [Prompt]Epoch:2, Current step: 43000, Loss(train): 1.834839, Loss(val): 2.013914, alpha:0.024300
+2019-04-29 00:54:31,685 - test.py:108 - train_log - [Prompt]Epoch:2, Current step: 44000, Loss(train): 1.843733, Loss(val): 2.008838, alpha:0.024300
+2019-04-29 00:54:32,138 - test.py:108 - train_log - [Prompt]Epoch:2, Current step: 45000, Loss(train): 1.823533, Loss(val): 2.003466, alpha:0.024300
+2019-04-29 00:54:32,185 - test.py:169 - train_log - 
+[Saved Matrix P to file: data\matrix\P_iter45000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-54-32.csv]
+
+2019-04-29 00:54:32,388 - test.py:169 - train_log - 
+[Saved Matrix Q to file: data\matrix\Q_iter45000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-54-32.csv]
+
+2019-04-29 00:54:32,753 - test.py:108 - train_log - [Prompt]Epoch:2, Current step: 46000, Loss(train): 1.857354, Loss(val): 2.040740, alpha:0.024300
+2019-04-29 00:54:33,081 - test.py:108 - train_log - [Prompt]Epoch:2, Current step: 47000, Loss(train): 1.840920, Loss(val): 2.013757, alpha:0.024300
+2019-04-29 00:54:33,534 - test.py:108 - train_log - [Prompt]Epoch:2, Current step: 48000, Loss(train): 1.819746, Loss(val): 1.997832, alpha:0.024300
+2019-04-29 00:54:33,972 - test.py:108 - train_log - [Prompt]Epoch:2, Current step: 49000, Loss(train): 1.863485, Loss(val): 2.023470, alpha:0.024300
+2019-04-29 00:54:34,412 - test.py:108 - train_log - [Prompt]Epoch:2, Current step: 50000, Loss(train): 1.812199, Loss(val): 1.982684, alpha:0.024300
+2019-04-29 00:54:34,443 - test.py:169 - train_log - 
+[Saved Matrix P to file: data\matrix\P_iter50000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-54-34.csv]
+
+2019-04-29 00:54:34,578 - test.py:169 - train_log - 
+[Saved Matrix Q to file: data\matrix\Q_iter50000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-54-34.csv]
+
+2019-04-29 00:54:35,078 - test.py:108 - train_log - [Prompt]Epoch:3, Current step: 51000, Loss(train): 1.819285, Loss(val): 2.000149, alpha:0.021870
+2019-04-29 00:54:35,702 - test.py:108 - train_log - [Prompt]Epoch:3, Current step: 52000, Loss(train): 1.823973, Loss(val): 2.008145, alpha:0.021870
+2019-04-29 00:54:36,234 - test.py:108 - train_log - [Prompt]Epoch:3, Current step: 53000, Loss(train): 1.807929, Loss(val): 1.981117, alpha:0.021870
+2019-04-29 00:54:36,655 - test.py:108 - train_log - [Prompt]Epoch:3, Current step: 54000, Loss(train): 1.814435, Loss(val): 1.997684, alpha:0.021870
+2019-04-29 00:54:37,064 - test.py:108 - train_log - [Prompt]Epoch:3, Current step: 55000, Loss(train): 1.819312, Loss(val): 2.000282, alpha:0.021870
+2019-04-29 00:54:37,095 - test.py:169 - train_log - 
+[Saved Matrix P to file: data\matrix\P_iter55000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-54-37.csv]
+
+2019-04-29 00:54:37,225 - test.py:169 - train_log - 
+[Saved Matrix Q to file: data\matrix\Q_iter55000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-54-37.csv]
+
+2019-04-29 00:54:37,571 - test.py:108 - train_log - [Prompt]Epoch:3, Current step: 56000, Loss(train): 1.828866, Loss(val): 1.994154, alpha:0.021870
+2019-04-29 00:54:37,914 - test.py:108 - train_log - [Prompt]Epoch:3, Current step: 57000, Loss(train): 1.818023, Loss(val): 2.004624, alpha:0.021870
+2019-04-29 00:54:38,336 - test.py:108 - train_log - [Prompt]Epoch:3, Current step: 58000, Loss(train): 1.818565, Loss(val): 1.990396, alpha:0.021870
+2019-04-29 00:54:38,789 - test.py:108 - train_log - [Prompt]Epoch:3, Current step: 59000, Loss(train): 1.806890, Loss(val): 1.998049, alpha:0.021870
+2019-04-29 00:54:39,133 - test.py:108 - train_log - [Prompt]Epoch:3, Current step: 60000, Loss(train): 1.810923, Loss(val): 2.002330, alpha:0.021870
+2019-04-29 00:54:39,164 - test.py:169 - train_log - 
+[Saved Matrix P to file: data\matrix\P_iter60000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-54-39.csv]
+
+2019-04-29 00:54:39,273 - test.py:169 - train_log - 
+[Saved Matrix Q to file: data\matrix\Q_iter60000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-54-39.csv]
+
+2019-04-29 00:54:39,642 - test.py:108 - train_log - [Prompt]Epoch:3, Current step: 61000, Loss(train): 1.817749, Loss(val): 2.015045, alpha:0.021870
+2019-04-29 00:54:40,048 - test.py:108 - train_log - [Prompt]Epoch:3, Current step: 62000, Loss(train): 1.839840, Loss(val): 2.017063, alpha:0.021870
+2019-04-29 00:54:40,454 - test.py:108 - train_log - [Prompt]Epoch:3, Current step: 63000, Loss(train): 1.811868, Loss(val): 1.984352, alpha:0.021870
+2019-04-29 00:54:40,845 - test.py:108 - train_log - [Prompt]Epoch:3, Current step: 64000, Loss(train): 1.803241, Loss(val): 1.962334, alpha:0.021870
+2019-04-29 00:54:41,282 - test.py:108 - train_log - [Prompt]Epoch:3, Current step: 65000, Loss(train): 1.821363, Loss(val): 1.964093, alpha:0.021870
+2019-04-29 00:54:41,314 - test.py:169 - train_log - 
+[Saved Matrix P to file: data\matrix\P_iter65000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-54-41.csv]
+
+2019-04-29 00:54:41,470 - test.py:169 - train_log - 
+[Saved Matrix Q to file: data\matrix\Q_iter65000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-54-41.csv]
+
+2019-04-29 00:54:41,876 - test.py:108 - train_log - [Prompt]Epoch:3, Current step: 66000, Loss(train): 1.810135, Loss(val): 1.980725, alpha:0.021870
+2019-04-29 00:54:42,365 - test.py:108 - train_log - [Prompt]Epoch:3, Current step: 67000, Loss(train): 1.814845, Loss(val): 1.976078, alpha:0.021870
+2019-04-29 00:54:42,896 - test.py:108 - train_log - [Prompt]Epoch:4, Current step: 68000, Loss(train): 1.799920, Loss(val): 1.967113, alpha:0.019683
+2019-04-29 00:54:43,364 - test.py:108 - train_log - [Prompt]Epoch:4, Current step: 69000, Loss(train): 1.797643, Loss(val): 1.966884, alpha:0.019683
+2019-04-29 00:54:43,802 - test.py:108 - train_log - [Prompt]Epoch:4, Current step: 70000, Loss(train): 1.809746, Loss(val): 1.987154, alpha:0.019683
+2019-04-29 00:54:43,833 - test.py:169 - train_log - 
+[Saved Matrix P to file: data\matrix\P_iter70000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-54-43.csv]
+
+2019-04-29 00:54:43,974 - test.py:169 - train_log - 
+[Saved Matrix Q to file: data\matrix\Q_iter70000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-54-43.csv]
+
+2019-04-29 00:54:44,486 - test.py:108 - train_log - [Prompt]Epoch:4, Current step: 71000, Loss(train): 1.798371, Loss(val): 1.978096, alpha:0.019683
+2019-04-29 00:54:45,189 - test.py:108 - train_log - [Prompt]Epoch:4, Current step: 72000, Loss(train): 1.800271, Loss(val): 1.980269, alpha:0.019683
+2019-04-29 00:54:45,673 - test.py:108 - train_log - [Prompt]Epoch:4, Current step: 73000, Loss(train): 1.817874, Loss(val): 1.994930, alpha:0.019683
+2019-04-29 00:54:46,095 - test.py:108 - train_log - [Prompt]Epoch:4, Current step: 74000, Loss(train): 1.797212, Loss(val): 1.971919, alpha:0.019683
+2019-04-29 00:54:46,517 - test.py:108 - train_log - [Prompt]Epoch:4, Current step: 75000, Loss(train): 1.815880, Loss(val): 1.987702, alpha:0.019683
+2019-04-29 00:54:46,548 - test.py:169 - train_log - 
+[Saved Matrix P to file: data\matrix\P_iter75000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-54-46.csv]
+
+2019-04-29 00:54:46,735 - test.py:169 - train_log - 
+[Saved Matrix Q to file: data\matrix\Q_iter75000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-54-46.csv]
+
+2019-04-29 00:54:47,251 - test.py:108 - train_log - [Prompt]Epoch:4, Current step: 76000, Loss(train): 1.799410, Loss(val): 1.986373, alpha:0.019683
+2019-04-29 00:54:47,766 - test.py:108 - train_log - [Prompt]Epoch:4, Current step: 77000, Loss(train): 1.786418, Loss(val): 1.976195, alpha:0.019683
+2019-04-29 00:54:48,251 - test.py:108 - train_log - [Prompt]Epoch:4, Current step: 78000, Loss(train): 1.847010, Loss(val): 2.020791, alpha:0.019683
+2019-04-29 00:54:48,657 - test.py:108 - train_log - [Prompt]Epoch:4, Current step: 79000, Loss(train): 1.782233, Loss(val): 1.970744, alpha:0.019683
+2019-04-29 00:54:49,157 - test.py:108 - train_log - [Prompt]Epoch:4, Current step: 80000, Loss(train): 1.790978, Loss(val): 1.973268, alpha:0.019683
+2019-04-29 00:54:49,188 - test.py:169 - train_log - 
+[Saved Matrix P to file: data\matrix\P_iter80000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-54-49.csv]
+
+2019-04-29 00:54:49,313 - test.py:169 - train_log - 
+[Saved Matrix Q to file: data\matrix\Q_iter80000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-54-49.csv]
+
+2019-04-29 00:54:49,783 - test.py:108 - train_log - [Prompt]Epoch:4, Current step: 81000, Loss(train): 1.775473, Loss(val): 1.961973, alpha:0.019683
+2019-04-29 00:54:50,298 - test.py:108 - train_log - [Prompt]Epoch:4, Current step: 82000, Loss(train): 1.792073, Loss(val): 1.958793, alpha:0.019683
+2019-04-29 00:54:50,704 - test.py:108 - train_log - [Prompt]Epoch:4, Current step: 83000, Loss(train): 1.776660, Loss(val): 1.951516, alpha:0.019683
+2019-04-29 00:54:51,079 - test.py:108 - train_log - [Prompt]Epoch:4, Current step: 84000, Loss(train): 1.774413, Loss(val): 1.949762, alpha:0.019683
+2019-04-29 00:54:51,626 - test.py:108 - train_log - [Prompt]Epoch:5, Current step: 85000, Loss(train): 1.780171, Loss(val): 1.944343, alpha:0.017715
+2019-04-29 00:54:51,673 - test.py:169 - train_log - 
+[Saved Matrix P to file: data\matrix\P_iter85000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-54-51.csv]
+
+2019-04-29 00:54:51,798 - test.py:169 - train_log - 
+[Saved Matrix Q to file: data\matrix\Q_iter85000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-54-51.csv]
+
+2019-04-29 00:54:52,267 - test.py:108 - train_log - [Prompt]Epoch:5, Current step: 86000, Loss(train): 1.776420, Loss(val): 1.962192, alpha:0.017715
+2019-04-29 00:54:52,751 - test.py:108 - train_log - [Prompt]Epoch:5, Current step: 87000, Loss(train): 1.797917, Loss(val): 1.965474, alpha:0.017715
+2019-04-29 00:54:53,344 - test.py:108 - train_log - [Prompt]Epoch:5, Current step: 88000, Loss(train): 1.783580, Loss(val): 1.962080, alpha:0.017715
+2019-04-29 00:54:53,829 - test.py:108 - train_log - [Prompt]Epoch:5, Current step: 89000, Loss(train): 1.773664, Loss(val): 1.942710, alpha:0.017715
+2019-04-29 00:54:54,250 - test.py:108 - train_log - [Prompt]Epoch:5, Current step: 90000, Loss(train): 1.777637, Loss(val): 1.954399, alpha:0.017715
+2019-04-29 00:54:54,297 - test.py:169 - train_log - 
+[Saved Matrix P to file: data\matrix\P_iter90000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-54-54.csv]
+
+2019-04-29 00:54:54,438 - test.py:169 - train_log - 
+[Saved Matrix Q to file: data\matrix\Q_iter90000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-54-54.csv]
+
+2019-04-29 00:54:54,939 - test.py:108 - train_log - [Prompt]Epoch:5, Current step: 91000, Loss(train): 1.793350, Loss(val): 1.967989, alpha:0.017715
+2019-04-29 00:54:55,330 - test.py:108 - train_log - [Prompt]Epoch:5, Current step: 92000, Loss(train): 1.784776, Loss(val): 1.954156, alpha:0.017715
+2019-04-29 00:54:55,691 - test.py:108 - train_log - [Prompt]Epoch:5, Current step: 93000, Loss(train): 1.794744, Loss(val): 1.966577, alpha:0.017715
+2019-04-29 00:54:56,020 - test.py:108 - train_log - [Prompt]Epoch:5, Current step: 94000, Loss(train): 1.767550, Loss(val): 1.940107, alpha:0.017715
+2019-04-29 00:54:56,350 - test.py:108 - train_log - [Prompt]Epoch:5, Current step: 95000, Loss(train): 1.795598, Loss(val): 1.958447, alpha:0.017715
+2019-04-29 00:54:56,380 - test.py:169 - train_log - 
+[Saved Matrix P to file: data\matrix\P_iter95000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-54-56.csv]
+
+2019-04-29 00:54:56,490 - test.py:169 - train_log - 
+[Saved Matrix Q to file: data\matrix\Q_iter95000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-54-56.csv]
+
+2019-04-29 00:54:56,851 - test.py:108 - train_log - [Prompt]Epoch:5, Current step: 96000, Loss(train): 1.785757, Loss(val): 1.948767, alpha:0.017715
+2019-04-29 00:54:57,182 - test.py:108 - train_log - [Prompt]Epoch:5, Current step: 97000, Loss(train): 1.784271, Loss(val): 1.949836, alpha:0.017715
+2019-04-29 00:54:57,496 - test.py:108 - train_log - [Prompt]Epoch:5, Current step: 98000, Loss(train): 1.762457, Loss(val): 1.933141, alpha:0.017715
+2019-04-29 00:54:57,839 - test.py:108 - train_log - [Prompt]Epoch:5, Current step: 99000, Loss(train): 1.765160, Loss(val): 1.950534, alpha:0.017715
+2019-04-29 00:54:58,199 - test.py:108 - train_log - [Prompt]Epoch:5, Current step: 100000, Loss(train): 1.766994, Loss(val): 1.944270, alpha:0.017715
+2019-04-29 00:54:58,230 - test.py:169 - train_log - 
+[Saved Matrix P to file: data\matrix\P_iter100000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-54-58.csv]
+
+2019-04-29 00:54:58,355 - test.py:169 - train_log - 
+[Saved Matrix Q to file: data\matrix\Q_iter100000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-54-58.csv]
+
+2019-04-29 00:54:58,701 - test.py:108 - train_log - [Prompt]Epoch:5, Current step: 101000, Loss(train): 1.767063, Loss(val): 1.935151, alpha:0.017715
+2019-04-29 00:54:59,060 - test.py:108 - train_log - [Prompt]Epoch:6, Current step: 102000, Loss(train): 1.783061, Loss(val): 1.968232, alpha:0.015943
+2019-04-29 00:54:59,405 - test.py:108 - train_log - [Prompt]Epoch:6, Current step: 103000, Loss(train): 1.779933, Loss(val): 1.959474, alpha:0.015943
+2019-04-29 00:54:59,726 - test.py:108 - train_log - [Prompt]Epoch:6, Current step: 104000, Loss(train): 1.756609, Loss(val): 1.947597, alpha:0.015943
+2019-04-29 00:55:00,054 - test.py:108 - train_log - [Prompt]Epoch:6, Current step: 105000, Loss(train): 1.779509, Loss(val): 1.960398, alpha:0.015943
+2019-04-29 00:55:00,085 - test.py:169 - train_log - 
+[Saved Matrix P to file: data\matrix\P_iter105000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-55-00.csv]
+
+2019-04-29 00:55:00,195 - test.py:169 - train_log - 
+[Saved Matrix Q to file: data\matrix\Q_iter105000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-55-00.csv]
+
+2019-04-29 00:55:00,539 - test.py:108 - train_log - [Prompt]Epoch:6, Current step: 106000, Loss(train): 1.786837, Loss(val): 1.955560, alpha:0.015943
+2019-04-29 00:55:00,860 - test.py:108 - train_log - [Prompt]Epoch:6, Current step: 107000, Loss(train): 1.760031, Loss(val): 1.940223, alpha:0.015943
+2019-04-29 00:55:01,206 - test.py:108 - train_log - [Prompt]Epoch:6, Current step: 108000, Loss(train): 1.761757, Loss(val): 1.954468, alpha:0.015943
+2019-04-29 00:55:01,553 - test.py:108 - train_log - [Prompt]Epoch:6, Current step: 109000, Loss(train): 1.765288, Loss(val): 1.965638, alpha:0.015943
+2019-04-29 00:55:01,899 - test.py:108 - train_log - [Prompt]Epoch:6, Current step: 110000, Loss(train): 1.766988, Loss(val): 1.948461, alpha:0.015943
+2019-04-29 00:55:01,930 - test.py:169 - train_log - 
+[Saved Matrix P to file: data\matrix\P_iter110000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-55-01.csv]
+
+2019-04-29 00:55:02,024 - test.py:169 - train_log - 
+[Saved Matrix Q to file: data\matrix\Q_iter110000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-55-01.csv]
+
+2019-04-29 00:55:02,386 - test.py:108 - train_log - [Prompt]Epoch:6, Current step: 111000, Loss(train): 1.765587, Loss(val): 1.951760, alpha:0.015943
+2019-04-29 00:55:02,713 - test.py:108 - train_log - [Prompt]Epoch:6, Current step: 112000, Loss(train): 1.769261, Loss(val): 1.943227, alpha:0.015943
+2019-04-29 00:55:03,152 - test.py:108 - train_log - [Prompt]Epoch:6, Current step: 113000, Loss(train): 1.753279, Loss(val): 1.933150, alpha:0.015943
+2019-04-29 00:55:03,668 - test.py:108 - train_log - [Prompt]Epoch:6, Current step: 114000, Loss(train): 1.746787, Loss(val): 1.930318, alpha:0.015943
+2019-04-29 00:55:04,230 - test.py:108 - train_log - [Prompt]Epoch:6, Current step: 115000, Loss(train): 1.765405, Loss(val): 1.942373, alpha:0.015943
+2019-04-29 00:55:04,277 - test.py:169 - train_log - 
+[Saved Matrix P to file: data\matrix\P_iter115000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-55-04.csv]
+
+2019-04-29 00:55:04,464 - test.py:169 - train_log - 
+[Saved Matrix Q to file: data\matrix\Q_iter115000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-55-04.csv]
+
+2019-04-29 00:55:05,034 - test.py:108 - train_log - [Prompt]Epoch:6, Current step: 116000, Loss(train): 1.767274, Loss(val): 1.949009, alpha:0.015943
+2019-04-29 00:55:05,518 - test.py:108 - train_log - [Prompt]Epoch:6, Current step: 117000, Loss(train): 1.746329, Loss(val): 1.926960, alpha:0.015943
+2019-04-29 00:55:05,925 - test.py:108 - train_log - [Prompt]Epoch:7, Current step: 118000, Loss(train): 1.752500, Loss(val): 1.938631, alpha:0.014349
+2019-04-29 00:55:06,315 - test.py:108 - train_log - [Prompt]Epoch:7, Current step: 119000, Loss(train): 1.752877, Loss(val): 1.947364, alpha:0.014349
+2019-04-29 00:55:06,723 - test.py:108 - train_log - [Prompt]Epoch:7, Current step: 120000, Loss(train): 1.766716, Loss(val): 1.940287, alpha:0.014349
+2019-04-29 00:55:06,742 - test.py:169 - train_log - 
+[Saved Matrix P to file: data\matrix\P_iter120000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-55-06.csv]
+
+2019-04-29 00:55:06,867 - test.py:169 - train_log - 
+[Saved Matrix Q to file: data\matrix\Q_iter120000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-55-06.csv]
+
+2019-04-29 00:55:07,215 - test.py:108 - train_log - [Prompt]Epoch:7, Current step: 121000, Loss(train): 1.756770, Loss(val): 1.935558, alpha:0.014349
+2019-04-29 00:55:07,747 - test.py:108 - train_log - [Prompt]Epoch:7, Current step: 122000, Loss(train): 1.757291, Loss(val): 1.953251, alpha:0.014349
+2019-04-29 00:55:08,371 - test.py:108 - train_log - [Prompt]Epoch:7, Current step: 123000, Loss(train): 1.756828, Loss(val): 1.953217, alpha:0.014349
+2019-04-29 00:55:08,981 - test.py:108 - train_log - [Prompt]Epoch:7, Current step: 124000, Loss(train): 1.757961, Loss(val): 1.956063, alpha:0.014349
+2019-04-29 00:55:09,566 - test.py:108 - train_log - [Prompt]Epoch:7, Current step: 125000, Loss(train): 1.738373, Loss(val): 1.941013, alpha:0.014349
+2019-04-29 00:55:09,613 - test.py:169 - train_log - 
+[Saved Matrix P to file: data\matrix\P_iter125000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-55-09.csv]
+
+2019-04-29 00:55:09,754 - test.py:169 - train_log - 
+[Saved Matrix Q to file: data\matrix\Q_iter125000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-55-09.csv]
+
+2019-04-29 00:55:10,268 - test.py:108 - train_log - [Prompt]Epoch:7, Current step: 126000, Loss(train): 1.749694, Loss(val): 1.955863, alpha:0.014349
+2019-04-29 00:55:10,846 - test.py:108 - train_log - [Prompt]Epoch:7, Current step: 127000, Loss(train): 1.747624, Loss(val): 1.937722, alpha:0.014349
+2019-04-29 00:55:11,301 - test.py:108 - train_log - [Prompt]Epoch:7, Current step: 128000, Loss(train): 1.760349, Loss(val): 1.947969, alpha:0.014349
+2019-04-29 00:55:11,665 - test.py:108 - train_log - [Prompt]Epoch:7, Current step: 129000, Loss(train): 1.753500, Loss(val): 1.936601, alpha:0.014349
+2019-04-29 00:55:12,040 - test.py:108 - train_log - [Prompt]Epoch:7, Current step: 130000, Loss(train): 1.764019, Loss(val): 1.933416, alpha:0.014349
+2019-04-29 00:55:12,074 - test.py:169 - train_log - 
+[Saved Matrix P to file: data\matrix\P_iter130000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-55-12.csv]
+
+2019-04-29 00:55:12,183 - test.py:169 - train_log - 
+[Saved Matrix Q to file: data\matrix\Q_iter130000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-55-12.csv]
+
+2019-04-29 00:55:12,529 - test.py:108 - train_log - [Prompt]Epoch:7, Current step: 131000, Loss(train): 1.745075, Loss(val): 1.928269, alpha:0.014349
+2019-04-29 00:55:13,015 - test.py:108 - train_log - [Prompt]Epoch:7, Current step: 132000, Loss(train): 1.734491, Loss(val): 1.931886, alpha:0.014349
+2019-04-29 00:55:13,436 - test.py:108 - train_log - [Prompt]Epoch:7, Current step: 133000, Loss(train): 1.755328, Loss(val): 1.937954, alpha:0.014349
+2019-04-29 00:55:13,864 - test.py:108 - train_log - [Prompt]Epoch:7, Current step: 134000, Loss(train): 1.741075, Loss(val): 1.924507, alpha:0.014349
+2019-04-29 00:55:14,304 - test.py:108 - train_log - [Prompt]Epoch:8, Current step: 135000, Loss(train): 1.738141, Loss(val): 1.923544, alpha:0.012914
+2019-04-29 00:55:14,336 - test.py:169 - train_log - 
+[Saved Matrix P to file: data\matrix\P_iter135000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-55-14.csv]
+
+2019-04-29 00:55:14,492 - test.py:169 - train_log - 
+[Saved Matrix Q to file: data\matrix\Q_iter135000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-55-14.csv]
+
+2019-04-29 00:55:14,914 - test.py:108 - train_log - [Prompt]Epoch:8, Current step: 136000, Loss(train): 1.733952, Loss(val): 1.912313, alpha:0.012914
+2019-04-29 00:55:15,307 - test.py:108 - train_log - [Prompt]Epoch:8, Current step: 137000, Loss(train): 1.753089, Loss(val): 1.939107, alpha:0.012914
+2019-04-29 00:55:15,715 - test.py:108 - train_log - [Prompt]Epoch:8, Current step: 138000, Loss(train): 1.747704, Loss(val): 1.925834, alpha:0.012914
+2019-04-29 00:55:16,235 - test.py:108 - train_log - [Prompt]Epoch:8, Current step: 139000, Loss(train): 1.753079, Loss(val): 1.935388, alpha:0.012914
+2019-04-29 00:55:16,680 - test.py:108 - train_log - [Prompt]Epoch:8, Current step: 140000, Loss(train): 1.732966, Loss(val): 1.925825, alpha:0.012914
+2019-04-29 00:55:16,727 - test.py:169 - train_log - 
+[Saved Matrix P to file: data\matrix\P_iter140000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-55-16.csv]
+
+2019-04-29 00:55:16,852 - test.py:169 - train_log - 
+[Saved Matrix Q to file: data\matrix\Q_iter140000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-55-16.csv]
+
+2019-04-29 00:55:17,633 - test.py:108 - train_log - [Prompt]Epoch:8, Current step: 141000, Loss(train): 1.744763, Loss(val): 1.943463, alpha:0.012914
+2019-04-29 00:55:18,304 - test.py:108 - train_log - [Prompt]Epoch:8, Current step: 142000, Loss(train): 1.743292, Loss(val): 1.936897, alpha:0.012914
+2019-04-29 00:55:19,070 - test.py:108 - train_log - [Prompt]Epoch:8, Current step: 143000, Loss(train): 1.754910, Loss(val): 1.953655, alpha:0.012914
+2019-04-29 00:55:19,634 - test.py:108 - train_log - [Prompt]Epoch:8, Current step: 144000, Loss(train): 1.749558, Loss(val): 1.944610, alpha:0.012914
+2019-04-29 00:55:20,276 - test.py:108 - train_log - [Prompt]Epoch:8, Current step: 145000, Loss(train): 1.747246, Loss(val): 1.939013, alpha:0.012914
+2019-04-29 00:55:20,323 - test.py:169 - train_log - 
+[Saved Matrix P to file: data\matrix\P_iter145000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-55-20.csv]
+
+2019-04-29 00:55:20,479 - test.py:169 - train_log - 
+[Saved Matrix Q to file: data\matrix\Q_iter145000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-55-20.csv]
+
+2019-04-29 00:55:20,963 - test.py:108 - train_log - [Prompt]Epoch:8, Current step: 146000, Loss(train): 1.730107, Loss(val): 1.934740, alpha:0.012914
+2019-04-29 00:55:21,666 - test.py:108 - train_log - [Prompt]Epoch:8, Current step: 147000, Loss(train): 1.730961, Loss(val): 1.928975, alpha:0.012914
+2019-04-29 00:55:22,166 - test.py:108 - train_log - [Prompt]Epoch:8, Current step: 148000, Loss(train): 1.728411, Loss(val): 1.925888, alpha:0.012914
+2019-04-29 00:55:22,729 - test.py:108 - train_log - [Prompt]Epoch:8, Current step: 149000, Loss(train): 1.726059, Loss(val): 1.919955, alpha:0.012914
+2019-04-29 00:55:23,197 - test.py:108 - train_log - [Prompt]Epoch:8, Current step: 150000, Loss(train): 1.722169, Loss(val): 1.906858, alpha:0.012914
+2019-04-29 00:55:23,244 - test.py:169 - train_log - 
+[Saved Matrix P to file: data\matrix\P_iter150000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-55-23.csv]
+
+2019-04-29 00:55:23,369 - test.py:169 - train_log - 
+[Saved Matrix Q to file: data\matrix\Q_iter150000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-55-23.csv]
+
+2019-04-29 00:55:23,822 - test.py:108 - train_log - [Prompt]Epoch:8, Current step: 151000, Loss(train): 1.721530, Loss(val): 1.919135, alpha:0.012914
+2019-04-29 00:55:24,306 - test.py:108 - train_log - [Prompt]Epoch:9, Current step: 152000, Loss(train): 1.733158, Loss(val): 1.923283, alpha:0.011623
+2019-04-29 00:55:24,891 - test.py:108 - train_log - [Prompt]Epoch:9, Current step: 153000, Loss(train): 1.729317, Loss(val): 1.924481, alpha:0.011623
+2019-04-29 00:55:25,376 - test.py:108 - train_log - [Prompt]Epoch:9, Current step: 154000, Loss(train): 1.728784, Loss(val): 1.924598, alpha:0.011623
+2019-04-29 00:55:25,838 - test.py:108 - train_log - [Prompt]Epoch:9, Current step: 155000, Loss(train): 1.729814, Loss(val): 1.933815, alpha:0.011623
+2019-04-29 00:55:25,885 - test.py:169 - train_log - 
+[Saved Matrix P to file: data\matrix\P_iter155000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-55-25.csv]
+
+2019-04-29 00:55:26,026 - test.py:169 - train_log - 
+[Saved Matrix Q to file: data\matrix\Q_iter155000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-55-25.csv]
+
+2019-04-29 00:55:26,541 - test.py:108 - train_log - [Prompt]Epoch:9, Current step: 156000, Loss(train): 1.733674, Loss(val): 1.934360, alpha:0.011623
+2019-04-29 00:55:26,948 - test.py:108 - train_log - [Prompt]Epoch:9, Current step: 157000, Loss(train): 1.733405, Loss(val): 1.942766, alpha:0.011623
+2019-04-29 00:55:27,389 - test.py:108 - train_log - [Prompt]Epoch:9, Current step: 158000, Loss(train): 1.731979, Loss(val): 1.927611, alpha:0.011623
+2019-04-29 00:55:27,749 - test.py:108 - train_log - [Prompt]Epoch:9, Current step: 159000, Loss(train): 1.725743, Loss(val): 1.923966, alpha:0.011623
+2019-04-29 00:55:28,108 - test.py:108 - train_log - [Prompt]Epoch:9, Current step: 160000, Loss(train): 1.733894, Loss(val): 1.927317, alpha:0.011623
+2019-04-29 00:55:28,140 - test.py:169 - train_log - 
+[Saved Matrix P to file: data\matrix\P_iter160000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-55-28.csv]
+
+2019-04-29 00:55:28,249 - test.py:169 - train_log - 
+[Saved Matrix Q to file: data\matrix\Q_iter160000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-55-28.csv]
+
+2019-04-29 00:55:28,753 - test.py:108 - train_log - [Prompt]Epoch:9, Current step: 161000, Loss(train): 1.728555, Loss(val): 1.921148, alpha:0.011623
+2019-04-29 00:55:29,316 - test.py:108 - train_log - [Prompt]Epoch:9, Current step: 162000, Loss(train): 1.709179, Loss(val): 1.898067, alpha:0.011623
+2019-04-29 00:55:29,811 - test.py:108 - train_log - [Prompt]Epoch:9, Current step: 163000, Loss(train): 1.722233, Loss(val): 1.913637, alpha:0.011623
+2019-04-29 00:55:30,234 - test.py:108 - train_log - [Prompt]Epoch:9, Current step: 164000, Loss(train): 1.718353, Loss(val): 1.909392, alpha:0.011623
+2019-04-29 00:55:30,563 - test.py:108 - train_log - [Prompt]Epoch:9, Current step: 165000, Loss(train): 1.721121, Loss(val): 1.903636, alpha:0.011623
+2019-04-29 00:55:30,594 - test.py:169 - train_log - 
+[Saved Matrix P to file: data\matrix\P_iter165000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-55-30.csv]
+
+2019-04-29 00:55:30,688 - test.py:169 - train_log - 
+[Saved Matrix Q to file: data\matrix\Q_iter165000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-55-30.csv]
+
+2019-04-29 00:55:31,065 - test.py:108 - train_log - [Prompt]Epoch:9, Current step: 166000, Loss(train): 1.719541, Loss(val): 1.912062, alpha:0.011623
+2019-04-29 00:55:31,506 - test.py:108 - train_log - [Prompt]Epoch:9, Current step: 167000, Loss(train): 1.714971, Loss(val): 1.909842, alpha:0.011623
+2019-04-29 00:55:31,914 - test.py:108 - train_log - [Prompt]Epoch:9, Current step: 168000, Loss(train): 1.720671, Loss(val): 1.911851, alpha:0.011623
+2019-04-29 00:55:32,291 - test.py:108 - train_log - [Prompt]Epoch:10, Current step: 169000, Loss(train): 1.723688, Loss(val): 1.921818, alpha:0.010460
+2019-04-29 00:55:32,635 - test.py:108 - train_log - [Prompt]Epoch:10, Current step: 170000, Loss(train): 1.734503, Loss(val): 1.936101, alpha:0.010460
+2019-04-29 00:55:32,666 - test.py:169 - train_log - 
+[Saved Matrix P to file: data\matrix\P_iter170000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-55-32.csv]
+
+2019-04-29 00:55:32,760 - test.py:169 - train_log - 
+[Saved Matrix Q to file: data\matrix\Q_iter170000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-55-32.csv]
+
+2019-04-29 00:55:33,184 - test.py:108 - train_log - [Prompt]Epoch:10, Current step: 171000, Loss(train): 1.724899, Loss(val): 1.929864, alpha:0.010460
+2019-04-29 00:55:33,543 - test.py:108 - train_log - [Prompt]Epoch:10, Current step: 172000, Loss(train): 1.721469, Loss(val): 1.918870, alpha:0.010460
+2019-04-29 00:55:33,921 - test.py:108 - train_log - [Prompt]Epoch:10, Current step: 173000, Loss(train): 1.726278, Loss(val): 1.918815, alpha:0.010460
+2019-04-29 00:55:34,290 - test.py:108 - train_log - [Prompt]Epoch:10, Current step: 174000, Loss(train): 1.732267, Loss(val): 1.919883, alpha:0.010460
+2019-04-29 00:55:34,610 - test.py:108 - train_log - [Prompt]Epoch:10, Current step: 175000, Loss(train): 1.725502, Loss(val): 1.924547, alpha:0.010460
+2019-04-29 00:55:34,643 - test.py:169 - train_log - 
+[Saved Matrix P to file: data\matrix\P_iter175000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-55-34.csv]
+
+2019-04-29 00:55:34,737 - test.py:169 - train_log - 
+[Saved Matrix Q to file: data\matrix\Q_iter175000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-55-34.csv]
+
+2019-04-29 00:55:35,036 - test.py:108 - train_log - [Prompt]Epoch:10, Current step: 176000, Loss(train): 1.720325, Loss(val): 1.925899, alpha:0.010460
+2019-04-29 00:55:35,364 - test.py:108 - train_log - [Prompt]Epoch:10, Current step: 177000, Loss(train): 1.713216, Loss(val): 1.921178, alpha:0.010460
+2019-04-29 00:55:35,708 - test.py:108 - train_log - [Prompt]Epoch:10, Current step: 178000, Loss(train): 1.726741, Loss(val): 1.927062, alpha:0.010460
+2019-04-29 00:55:36,021 - test.py:108 - train_log - [Prompt]Epoch:10, Current step: 179000, Loss(train): 1.721554, Loss(val): 1.923741, alpha:0.010460
+2019-04-29 00:55:36,321 - test.py:108 - train_log - [Prompt]Epoch:10, Current step: 180000, Loss(train): 1.728913, Loss(val): 1.934120, alpha:0.010460
+2019-04-29 00:55:36,353 - test.py:169 - train_log - 
+[Saved Matrix P to file: data\matrix\P_iter180000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-55-36.csv]
+
+2019-04-29 00:55:36,447 - test.py:169 - train_log - 
+[Saved Matrix Q to file: data\matrix\Q_iter180000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-55-36.csv]
+
+2019-04-29 00:55:36,792 - test.py:108 - train_log - [Prompt]Epoch:10, Current step: 181000, Loss(train): 1.715756, Loss(val): 1.922087, alpha:0.010460
+2019-04-29 00:55:37,121 - test.py:108 - train_log - [Prompt]Epoch:10, Current step: 182000, Loss(train): 1.705954, Loss(val): 1.911008, alpha:0.010460
+2019-04-29 00:55:37,433 - test.py:108 - train_log - [Prompt]Epoch:10, Current step: 183000, Loss(train): 1.716060, Loss(val): 1.914012, alpha:0.010460
+2019-04-29 00:55:37,734 - test.py:108 - train_log - [Prompt]Epoch:10, Current step: 184000, Loss(train): 1.713478, Loss(val): 1.918079, alpha:0.010460
+2019-04-29 00:55:38,062 - test.py:108 - train_log - [Prompt]Epoch:10, Current step: 185000, Loss(train): 1.707777, Loss(val): 1.914765, alpha:0.010460
+2019-04-29 00:55:38,093 - test.py:169 - train_log - 
+[Saved Matrix P to file: data\matrix\P_iter185000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-55-38.csv]
+
+2019-04-29 00:55:38,187 - test.py:169 - train_log - 
+[Saved Matrix Q to file: data\matrix\Q_iter185000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-55-38.csv]
+
+2019-04-29 00:55:38,547 - test.py:108 - train_log - [Prompt]Epoch:11, Current step: 186000, Loss(train): 1.719665, Loss(val): 1.915387, alpha:0.009414
+2019-04-29 00:55:38,845 - test.py:108 - train_log - [Prompt]Epoch:11, Current step: 187000, Loss(train): 1.712454, Loss(val): 1.921789, alpha:0.009414
+2019-04-29 00:55:39,254 - test.py:108 - train_log - [Prompt]Epoch:11, Current step: 188000, Loss(train): 1.699903, Loss(val): 1.917858, alpha:0.009414
+2019-04-29 00:55:39,657 - test.py:108 - train_log - [Prompt]Epoch:11, Current step: 189000, Loss(train): 1.710254, Loss(val): 1.928876, alpha:0.009414
+2019-04-29 00:55:40,004 - test.py:108 - train_log - [Prompt]Epoch:11, Current step: 190000, Loss(train): 1.703007, Loss(val): 1.916277, alpha:0.009414
+2019-04-29 00:55:40,035 - test.py:169 - train_log - 
+[Saved Matrix P to file: data\matrix\P_iter190000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-55-40.csv]
+
+2019-04-29 00:55:40,145 - test.py:169 - train_log - 
+[Saved Matrix Q to file: data\matrix\Q_iter190000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-55-40.csv]
+
+2019-04-29 00:55:40,526 - test.py:108 - train_log - [Prompt]Epoch:11, Current step: 191000, Loss(train): 1.710327, Loss(val): 1.929700, alpha:0.009414
+2019-04-29 00:55:40,984 - test.py:108 - train_log - [Prompt]Epoch:11, Current step: 192000, Loss(train): 1.705799, Loss(val): 1.915384, alpha:0.009414
+2019-04-29 00:55:41,359 - test.py:108 - train_log - [Prompt]Epoch:11, Current step: 193000, Loss(train): 1.712217, Loss(val): 1.917540, alpha:0.009414
+2019-04-29 00:55:41,691 - test.py:108 - train_log - [Prompt]Epoch:11, Current step: 194000, Loss(train): 1.698967, Loss(val): 1.908210, alpha:0.009414
+2019-04-29 00:55:41,989 - test.py:108 - train_log - [Prompt]Epoch:11, Current step: 195000, Loss(train): 1.711132, Loss(val): 1.919091, alpha:0.009414
+2019-04-29 00:55:42,020 - test.py:169 - train_log - 
+[Saved Matrix P to file: data\matrix\P_iter195000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-55-42.csv]
+
+2019-04-29 00:55:42,129 - test.py:169 - train_log - 
+[Saved Matrix Q to file: data\matrix\Q_iter195000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-55-42.csv]
+
+2019-04-29 00:55:42,494 - test.py:108 - train_log - [Prompt]Epoch:11, Current step: 196000, Loss(train): 1.708732, Loss(val): 1.921432, alpha:0.009414
+2019-04-29 00:55:42,822 - test.py:108 - train_log - [Prompt]Epoch:11, Current step: 197000, Loss(train): 1.702394, Loss(val): 1.899458, alpha:0.009414
+2019-04-29 00:55:43,199 - test.py:108 - train_log - [Prompt]Epoch:11, Current step: 198000, Loss(train): 1.706398, Loss(val): 1.906334, alpha:0.009414
+2019-04-29 00:55:43,575 - test.py:108 - train_log - [Prompt]Epoch:11, Current step: 199000, Loss(train): 1.715150, Loss(val): 1.915677, alpha:0.009414
+2019-04-29 00:55:43,890 - test.py:108 - train_log - [Prompt]Epoch:11, Current step: 200000, Loss(train): 1.725843, Loss(val): 1.921028, alpha:0.009414
+2019-04-29 00:55:43,905 - test.py:169 - train_log - 
+[Saved Matrix P to file: data\matrix\P_iter200000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-55-43.csv]
+
+2019-04-29 00:55:44,034 - test.py:169 - train_log - 
+[Saved Matrix Q to file: data\matrix\Q_iter200000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-55-43.csv]
+
+2019-04-29 00:55:44,408 - test.py:108 - train_log - [Prompt]Epoch:11, Current step: 201000, Loss(train): 1.710300, Loss(val): 1.907842, alpha:0.009414
+2019-04-29 00:55:44,752 - test.py:108 - train_log - [Prompt]Epoch:11, Current step: 202000, Loss(train): 1.710869, Loss(val): 1.912216, alpha:0.009414
+2019-04-29 00:55:45,080 - test.py:108 - train_log - [Prompt]Epoch:12, Current step: 203000, Loss(train): 1.709848, Loss(val): 1.914580, alpha:0.008473
+2019-04-29 00:55:45,378 - test.py:108 - train_log - [Prompt]Epoch:12, Current step: 204000, Loss(train): 1.724161, Loss(val): 1.925598, alpha:0.008473
+2019-04-29 00:55:45,709 - test.py:108 - train_log - [Prompt]Epoch:12, Current step: 205000, Loss(train): 1.712703, Loss(val): 1.922264, alpha:0.008473
+2019-04-29 00:55:45,740 - test.py:169 - train_log - 
+[Saved Matrix P to file: data\matrix\P_iter205000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-55-45.csv]
+
+2019-04-29 00:55:45,837 - test.py:169 - train_log - 
+[Saved Matrix Q to file: data\matrix\Q_iter205000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-55-45.csv]
+
+2019-04-29 00:55:46,181 - test.py:108 - train_log - [Prompt]Epoch:12, Current step: 206000, Loss(train): 1.707899, Loss(val): 1.918828, alpha:0.008473
+2019-04-29 00:55:46,592 - test.py:108 - train_log - [Prompt]Epoch:12, Current step: 207000, Loss(train): 1.714604, Loss(val): 1.920947, alpha:0.008473
+2019-04-29 00:55:47,030 - test.py:108 - train_log - [Prompt]Epoch:12, Current step: 208000, Loss(train): 1.704872, Loss(val): 1.917916, alpha:0.008473
+2019-04-29 00:55:47,389 - test.py:108 - train_log - [Prompt]Epoch:12, Current step: 209000, Loss(train): 1.709898, Loss(val): 1.921421, alpha:0.008473
+2019-04-29 00:55:47,779 - test.py:108 - train_log - [Prompt]Epoch:12, Current step: 210000, Loss(train): 1.718871, Loss(val): 1.921974, alpha:0.008473
+2019-04-29 00:55:47,826 - test.py:169 - train_log - 
+[Saved Matrix P to file: data\matrix\P_iter210000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-55-47.csv]
+
+2019-04-29 00:55:47,998 - test.py:169 - train_log - 
+[Saved Matrix Q to file: data\matrix\Q_iter210000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-55-47.csv]
+
+2019-04-29 00:55:48,373 - test.py:108 - train_log - [Prompt]Epoch:12, Current step: 211000, Loss(train): 1.709068, Loss(val): 1.921924, alpha:0.008473
+2019-04-29 00:55:48,699 - test.py:108 - train_log - [Prompt]Epoch:12, Current step: 212000, Loss(train): 1.707275, Loss(val): 1.920421, alpha:0.008473
+2019-04-29 00:55:49,074 - test.py:108 - train_log - [Prompt]Epoch:12, Current step: 213000, Loss(train): 1.700466, Loss(val): 1.914550, alpha:0.008473
+2019-04-29 00:55:49,404 - test.py:108 - train_log - [Prompt]Epoch:12, Current step: 214000, Loss(train): 1.706116, Loss(val): 1.920484, alpha:0.008473
+2019-04-29 00:55:49,754 - test.py:108 - train_log - [Prompt]Epoch:12, Current step: 215000, Loss(train): 1.693169, Loss(val): 1.908424, alpha:0.008473
+2019-04-29 00:55:49,785 - test.py:169 - train_log - 
+[Saved Matrix P to file: data\matrix\P_iter215000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-55-49.csv]
+
+2019-04-29 00:55:49,881 - test.py:169 - train_log - 
+[Saved Matrix Q to file: data\matrix\Q_iter215000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-55-49.csv]
+
+2019-04-29 00:55:50,196 - test.py:108 - train_log - [Prompt]Epoch:12, Current step: 216000, Loss(train): 1.708262, Loss(val): 1.912431, alpha:0.008473
+2019-04-29 00:55:50,494 - test.py:108 - train_log - [Prompt]Epoch:12, Current step: 217000, Loss(train): 1.704007, Loss(val): 1.911603, alpha:0.008473
+2019-04-29 00:55:50,837 - test.py:108 - train_log - [Prompt]Epoch:12, Current step: 218000, Loss(train): 1.693883, Loss(val): 1.902006, alpha:0.008473
+2019-04-29 00:55:51,165 - test.py:108 - train_log - [Prompt]Epoch:13, Current step: 219000, Loss(train): 1.692924, Loss(val): 1.899199, alpha:0.007626
+2019-04-29 00:55:51,527 - test.py:108 - train_log - [Prompt]Epoch:13, Current step: 220000, Loss(train): 1.695186, Loss(val): 1.903712, alpha:0.007626
+2019-04-29 00:55:51,544 - test.py:169 - train_log - 
+[Saved Matrix P to file: data\matrix\P_iter220000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-55-51.csv]
+
+2019-04-29 00:55:51,653 - test.py:169 - train_log - 
+[Saved Matrix Q to file: data\matrix\Q_iter220000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-55-51.csv]
+
+2019-04-29 00:55:51,966 - test.py:108 - train_log - [Prompt]Epoch:13, Current step: 221000, Loss(train): 1.694420, Loss(val): 1.905684, alpha:0.007626
+2019-04-29 00:55:52,363 - test.py:108 - train_log - [Prompt]Epoch:13, Current step: 222000, Loss(train): 1.692492, Loss(val): 1.897484, alpha:0.007626
+2019-04-29 00:55:52,821 - test.py:108 - train_log - [Prompt]Epoch:13, Current step: 223000, Loss(train): 1.689848, Loss(val): 1.893950, alpha:0.007626
+2019-04-29 00:55:53,321 - test.py:108 - train_log - [Prompt]Epoch:13, Current step: 224000, Loss(train): 1.687215, Loss(val): 1.898219, alpha:0.007626
+2019-04-29 00:55:53,733 - test.py:108 - train_log - [Prompt]Epoch:13, Current step: 225000, Loss(train): 1.688050, Loss(val): 1.901573, alpha:0.007626
+2019-04-29 00:55:53,764 - test.py:169 - train_log - 
+[Saved Matrix P to file: data\matrix\P_iter225000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-55-53.csv]
+
+2019-04-29 00:55:53,873 - test.py:169 - train_log - 
+[Saved Matrix Q to file: data\matrix\Q_iter225000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-55-53.csv]
+
+2019-04-29 00:55:54,248 - test.py:108 - train_log - [Prompt]Epoch:13, Current step: 226000, Loss(train): 1.703807, Loss(val): 1.911393, alpha:0.007626
+2019-04-29 00:55:54,652 - test.py:108 - train_log - [Prompt]Epoch:13, Current step: 227000, Loss(train): 1.705228, Loss(val): 1.914223, alpha:0.007626
+2019-04-29 00:55:55,013 - test.py:108 - train_log - [Prompt]Epoch:13, Current step: 228000, Loss(train): 1.709362, Loss(val): 1.917307, alpha:0.007626
+2019-04-29 00:55:55,404 - test.py:108 - train_log - [Prompt]Epoch:13, Current step: 229000, Loss(train): 1.693261, Loss(val): 1.900302, alpha:0.007626
+2019-04-29 00:55:55,779 - test.py:108 - train_log - [Prompt]Epoch:13, Current step: 230000, Loss(train): 1.698069, Loss(val): 1.911968, alpha:0.007626
+2019-04-29 00:55:55,811 - test.py:169 - train_log - 
+[Saved Matrix P to file: data\matrix\P_iter230000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-55-55.csv]
+
+2019-04-29 00:55:55,920 - test.py:169 - train_log - 
+[Saved Matrix Q to file: data\matrix\Q_iter230000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-55-55.csv]
+
+2019-04-29 00:55:56,235 - test.py:108 - train_log - [Prompt]Epoch:13, Current step: 231000, Loss(train): 1.700846, Loss(val): 1.914029, alpha:0.007626
+2019-04-29 00:55:56,625 - test.py:108 - train_log - [Prompt]Epoch:13, Current step: 232000, Loss(train): 1.692181, Loss(val): 1.904671, alpha:0.007626
+2019-04-29 00:55:57,109 - test.py:108 - train_log - [Prompt]Epoch:13, Current step: 233000, Loss(train): 1.691932, Loss(val): 1.905976, alpha:0.007626
+2019-04-29 00:55:57,609 - test.py:108 - train_log - [Prompt]Epoch:13, Current step: 234000, Loss(train): 1.690259, Loss(val): 1.898778, alpha:0.007626
+2019-04-29 00:55:57,953 - test.py:108 - train_log - [Prompt]Epoch:13, Current step: 235000, Loss(train): 1.699660, Loss(val): 1.907243, alpha:0.007626
+2019-04-29 00:55:57,968 - test.py:169 - train_log - 
+[Saved Matrix P to file: data\matrix\P_iter235000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-55-57.csv]
+
+2019-04-29 00:55:58,078 - test.py:169 - train_log - 
+[Saved Matrix Q to file: data\matrix\Q_iter235000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-55-58.csv]
+
+2019-04-29 00:55:58,500 - test.py:108 - train_log - [Prompt]Epoch:14, Current step: 236000, Loss(train): 1.700767, Loss(val): 1.909117, alpha:0.006863
+2019-04-29 00:55:58,832 - test.py:108 - train_log - [Prompt]Epoch:14, Current step: 237000, Loss(train): 1.698234, Loss(val): 1.906117, alpha:0.006863
+2019-04-29 00:55:59,187 - test.py:108 - train_log - [Prompt]Epoch:14, Current step: 238000, Loss(train): 1.691273, Loss(val): 1.910473, alpha:0.006863
+2019-04-29 00:55:59,596 - test.py:108 - train_log - [Prompt]Epoch:14, Current step: 239000, Loss(train): 1.693421, Loss(val): 1.914526, alpha:0.006863
+2019-04-29 00:56:00,021 - test.py:108 - train_log - [Prompt]Epoch:14, Current step: 240000, Loss(train): 1.696901, Loss(val): 1.916807, alpha:0.006863
+2019-04-29 00:56:00,068 - test.py:169 - train_log - 
+[Saved Matrix P to file: data\matrix\P_iter240000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-56-00.csv]
+
+2019-04-29 00:56:00,208 - test.py:169 - train_log - 
+[Saved Matrix Q to file: data\matrix\Q_iter240000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-56-00.csv]
+
+2019-04-29 00:56:00,818 - test.py:108 - train_log - [Prompt]Epoch:14, Current step: 241000, Loss(train): 1.697384, Loss(val): 1.917772, alpha:0.006863
+2019-04-29 00:56:01,505 - test.py:108 - train_log - [Prompt]Epoch:14, Current step: 242000, Loss(train): 1.700602, Loss(val): 1.915038, alpha:0.006863
+2019-04-29 00:56:02,161 - test.py:108 - train_log - [Prompt]Epoch:14, Current step: 243000, Loss(train): 1.690735, Loss(val): 1.908668, alpha:0.006863
+2019-04-29 00:56:02,692 - test.py:108 - train_log - [Prompt]Epoch:14, Current step: 244000, Loss(train): 1.690295, Loss(val): 1.909342, alpha:0.006863
+2019-04-29 00:56:03,115 - test.py:108 - train_log - [Prompt]Epoch:14, Current step: 245000, Loss(train): 1.685810, Loss(val): 1.902916, alpha:0.006863
+2019-04-29 00:56:03,163 - test.py:169 - train_log - 
+[Saved Matrix P to file: data\matrix\P_iter245000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-56-03.csv]
+
+2019-04-29 00:56:03,288 - test.py:169 - train_log - 
+[Saved Matrix Q to file: data\matrix\Q_iter245000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-56-03.csv]
+
+2019-04-29 00:56:03,775 - test.py:108 - train_log - [Prompt]Epoch:14, Current step: 246000, Loss(train): 1.692236, Loss(val): 1.902618, alpha:0.006863
+2019-04-29 00:56:04,293 - test.py:108 - train_log - [Prompt]Epoch:14, Current step: 247000, Loss(train): 1.688637, Loss(val): 1.897740, alpha:0.006863
+2019-04-29 00:56:04,690 - test.py:108 - train_log - [Prompt]Epoch:14, Current step: 248000, Loss(train): 1.683560, Loss(val): 1.894569, alpha:0.006863
+2019-04-29 00:56:05,080 - test.py:108 - train_log - [Prompt]Epoch:14, Current step: 249000, Loss(train): 1.683365, Loss(val): 1.900484, alpha:0.006863
+2019-04-29 00:56:05,426 - test.py:108 - train_log - [Prompt]Epoch:14, Current step: 250000, Loss(train): 1.680013, Loss(val): 1.897615, alpha:0.006863
+2019-04-29 00:56:05,451 - test.py:169 - train_log - 
+[Saved Matrix P to file: data\matrix\P_iter250000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-56-05.csv]
+
+2019-04-29 00:56:05,560 - test.py:169 - train_log - 
+[Saved Matrix Q to file: data\matrix\Q_iter250000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-56-05.csv]
+
+2019-04-29 00:56:05,875 - test.py:108 - train_log - [Prompt]Epoch:14, Current step: 251000, Loss(train): 1.682938, Loss(val): 1.896868, alpha:0.006863
+2019-04-29 00:56:06,174 - test.py:108 - train_log - [Prompt]Epoch:14, Current step: 252000, Loss(train): 1.682639, Loss(val): 1.901394, alpha:0.006863
+2019-04-29 00:56:06,598 - test.py:108 - train_log - [Prompt]Epoch:15, Current step: 253000, Loss(train): 1.687015, Loss(val): 1.907071, alpha:0.006177
+2019-04-29 00:56:06,973 - test.py:108 - train_log - [Prompt]Epoch:15, Current step: 254000, Loss(train): 1.682042, Loss(val): 1.901012, alpha:0.006177
+2019-04-29 00:56:07,351 - test.py:108 - train_log - [Prompt]Epoch:15, Current step: 255000, Loss(train): 1.683590, Loss(val): 1.900549, alpha:0.006177
+2019-04-29 00:56:07,382 - test.py:169 - train_log - 
+[Saved Matrix P to file: data\matrix\P_iter255000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-56-07.csv]
+
+2019-04-29 00:56:07,507 - test.py:169 - train_log - 
+[Saved Matrix Q to file: data\matrix\Q_iter255000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-56-07.csv]
+
+2019-04-29 00:56:07,914 - test.py:108 - train_log - [Prompt]Epoch:15, Current step: 256000, Loss(train): 1.686971, Loss(val): 1.901344, alpha:0.006177
+2019-04-29 00:56:08,391 - test.py:108 - train_log - [Prompt]Epoch:15, Current step: 257000, Loss(train): 1.681082, Loss(val): 1.900332, alpha:0.006177
+2019-04-29 00:56:08,986 - test.py:108 - train_log - [Prompt]Epoch:15, Current step: 258000, Loss(train): 1.688259, Loss(val): 1.905903, alpha:0.006177
+2019-04-29 00:56:09,410 - test.py:108 - train_log - [Prompt]Epoch:15, Current step: 259000, Loss(train): 1.690788, Loss(val): 1.898662, alpha:0.006177
+2019-04-29 00:56:09,802 - test.py:108 - train_log - [Prompt]Epoch:15, Current step: 260000, Loss(train): 1.687844, Loss(val): 1.896368, alpha:0.006177
+2019-04-29 00:56:09,818 - test.py:169 - train_log - 
+[Saved Matrix P to file: data\matrix\P_iter260000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-56-09.csv]
+
+2019-04-29 00:56:09,927 - test.py:169 - train_log - 
+[Saved Matrix Q to file: data\matrix\Q_iter260000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-56-09.csv]
+
+2019-04-29 00:56:10,320 - test.py:108 - train_log - [Prompt]Epoch:15, Current step: 261000, Loss(train): 1.691173, Loss(val): 1.904185, alpha:0.006177
+2019-04-29 00:56:10,664 - test.py:108 - train_log - [Prompt]Epoch:15, Current step: 262000, Loss(train): 1.688386, Loss(val): 1.900999, alpha:0.006177
+2019-04-29 00:56:10,979 - test.py:108 - train_log - [Prompt]Epoch:15, Current step: 263000, Loss(train): 1.683762, Loss(val): 1.902026, alpha:0.006177
+2019-04-29 00:56:11,354 - test.py:108 - train_log - [Prompt]Epoch:15, Current step: 264000, Loss(train): 1.687328, Loss(val): 1.903353, alpha:0.006177
+2019-04-29 00:56:11,683 - test.py:108 - train_log - [Prompt]Epoch:15, Current step: 265000, Loss(train): 1.684157, Loss(val): 1.903334, alpha:0.006177
+2019-04-29 00:56:11,715 - test.py:169 - train_log - 
+[Saved Matrix P to file: data\matrix\P_iter265000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-56-11.csv]
+
+2019-04-29 00:56:11,810 - test.py:169 - train_log - 
+[Saved Matrix Q to file: data\matrix\Q_iter265000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-56-11.csv]
+
+2019-04-29 00:56:12,153 - test.py:108 - train_log - [Prompt]Epoch:15, Current step: 266000, Loss(train): 1.683066, Loss(val): 1.909097, alpha:0.006177
+2019-04-29 00:56:12,559 - test.py:108 - train_log - [Prompt]Epoch:15, Current step: 267000, Loss(train): 1.681869, Loss(val): 1.912590, alpha:0.006177
+2019-04-29 00:56:12,967 - test.py:108 - train_log - [Prompt]Epoch:15, Current step: 268000, Loss(train): 1.679642, Loss(val): 1.909727, alpha:0.006177
+2019-04-29 00:56:13,535 - test.py:108 - train_log - [Prompt]Epoch:15, Current step: 269000, Loss(train): 1.680165, Loss(val): 1.910219, alpha:0.006177
+2019-04-29 00:56:14,097 - test.py:108 - train_log - [Prompt]Epoch:16, Current step: 270000, Loss(train): 1.679860, Loss(val): 1.902625, alpha:0.005559
+2019-04-29 00:56:14,128 - test.py:169 - train_log - 
+[Saved Matrix P to file: data\matrix\P_iter270000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-56-14.csv]
+
+2019-04-29 00:56:14,285 - test.py:169 - train_log - 
+[Saved Matrix Q to file: data\matrix\Q_iter270000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-56-14.csv]
+
+2019-04-29 00:56:15,081 - test.py:108 - train_log - [Prompt]Epoch:16, Current step: 271000, Loss(train): 1.683132, Loss(val): 1.905470, alpha:0.005559
+2019-04-29 00:56:15,662 - test.py:108 - train_log - [Prompt]Epoch:16, Current step: 272000, Loss(train): 1.692911, Loss(val): 1.907527, alpha:0.005559
+2019-04-29 00:56:16,039 - test.py:108 - train_log - [Prompt]Epoch:16, Current step: 273000, Loss(train): 1.682760, Loss(val): 1.898649, alpha:0.005559
+2019-04-29 00:56:16,372 - test.py:108 - train_log - [Prompt]Epoch:16, Current step: 274000, Loss(train): 1.684147, Loss(val): 1.899822, alpha:0.005559
+2019-04-29 00:56:16,685 - test.py:108 - train_log - [Prompt]Epoch:16, Current step: 275000, Loss(train): 1.679067, Loss(val): 1.898441, alpha:0.005559
+2019-04-29 00:56:16,734 - test.py:169 - train_log - 
+[Saved Matrix P to file: data\matrix\P_iter275000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-56-16.csv]
+
+2019-04-29 00:56:16,828 - test.py:169 - train_log - 
+[Saved Matrix Q to file: data\matrix\Q_iter275000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-56-16.csv]
+
+2019-04-29 00:56:17,143 - test.py:108 - train_log - [Prompt]Epoch:16, Current step: 276000, Loss(train): 1.679341, Loss(val): 1.899730, alpha:0.005559
+2019-04-29 00:56:17,457 - test.py:108 - train_log - [Prompt]Epoch:16, Current step: 277000, Loss(train): 1.674096, Loss(val): 1.893106, alpha:0.005559
+2019-04-29 00:56:17,878 - test.py:108 - train_log - [Prompt]Epoch:16, Current step: 278000, Loss(train): 1.672035, Loss(val): 1.891676, alpha:0.005559
+2019-04-29 00:56:18,224 - test.py:108 - train_log - [Prompt]Epoch:16, Current step: 279000, Loss(train): 1.673864, Loss(val): 1.889408, alpha:0.005559
+2019-04-29 00:56:18,569 - test.py:108 - train_log - [Prompt]Epoch:16, Current step: 280000, Loss(train): 1.675442, Loss(val): 1.893794, alpha:0.005559
+2019-04-29 00:56:18,600 - test.py:169 - train_log - 
+[Saved Matrix P to file: data\matrix\P_iter280000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-56-18.csv]
+
+2019-04-29 00:56:18,710 - test.py:169 - train_log - 
+[Saved Matrix Q to file: data\matrix\Q_iter280000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-56-18.csv]
+
+2019-04-29 00:56:19,038 - test.py:108 - train_log - [Prompt]Epoch:16, Current step: 281000, Loss(train): 1.674821, Loss(val): 1.899897, alpha:0.005559
+2019-04-29 00:56:19,367 - test.py:108 - train_log - [Prompt]Epoch:16, Current step: 282000, Loss(train): 1.676840, Loss(val): 1.899382, alpha:0.005559
+2019-04-29 00:56:19,692 - test.py:108 - train_log - [Prompt]Epoch:16, Current step: 283000, Loss(train): 1.676259, Loss(val): 1.902546, alpha:0.005559
+2019-04-29 00:56:20,020 - test.py:108 - train_log - [Prompt]Epoch:16, Current step: 284000, Loss(train): 1.677649, Loss(val): 1.909059, alpha:0.005559
+2019-04-29 00:56:20,350 - test.py:108 - train_log - [Prompt]Epoch:16, Current step: 285000, Loss(train): 1.676676, Loss(val): 1.908337, alpha:0.005559
+2019-04-29 00:56:20,381 - test.py:169 - train_log - 
+[Saved Matrix P to file: data\matrix\P_iter285000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-56-20.csv]
+
+2019-04-29 00:56:20,481 - test.py:169 - train_log - 
+[Saved Matrix Q to file: data\matrix\Q_iter285000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-56-20.csv]
+
+2019-04-29 00:56:20,812 - test.py:108 - train_log - [Prompt]Epoch:16, Current step: 286000, Loss(train): 1.673931, Loss(val): 1.909291, alpha:0.005559
+2019-04-29 00:56:21,172 - test.py:108 - train_log - [Prompt]Epoch:17, Current step: 287000, Loss(train): 1.680827, Loss(val): 1.912818, alpha:0.005003
+2019-04-29 00:56:21,501 - test.py:108 - train_log - [Prompt]Epoch:17, Current step: 288000, Loss(train): 1.680400, Loss(val): 1.914685, alpha:0.005003
+2019-04-29 00:56:21,830 - test.py:108 - train_log - [Prompt]Epoch:17, Current step: 289000, Loss(train): 1.679545, Loss(val): 1.915852, alpha:0.005003
+2019-04-29 00:56:22,128 - test.py:108 - train_log - [Prompt]Epoch:17, Current step: 290000, Loss(train): 1.677210, Loss(val): 1.911016, alpha:0.005003
+2019-04-29 00:56:22,141 - test.py:169 - train_log - 
+[Saved Matrix P to file: data\matrix\P_iter290000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-56-22.csv]
+
+2019-04-29 00:56:22,250 - test.py:169 - train_log - 
+[Saved Matrix Q to file: data\matrix\Q_iter290000__F_20_ori_alpha_0.030000_ori_lambda_0.500000_2019-04-29-00-56-22.csv]
+
+2019-04-29 00:56:22,631 - test.py:108 - train_log - [Prompt]Epoch:17, Current step: 291000, Loss(train): 1.684336, Loss(val): 1.915361, alpha:0.005003
+2019-04-29 00:56:23,101 - test.py:108 - train_log - [Prompt]Epoch:17, Current step: 292000, Loss(train): 1.686745, Loss(val): 1.918258, alpha:0.005003

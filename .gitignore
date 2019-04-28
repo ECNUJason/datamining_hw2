@@ -1,1 +1,3 @@
 data/*.ss
+data/matrix/*
+__pycache__/*
